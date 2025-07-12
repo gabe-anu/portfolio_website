@@ -2,6 +2,9 @@ Submitted by: **Gabriel Anurum-Anyanwu**
 
 Live Demo: [portfolio-website-five-alpha-27.vercel.app](https://portfolio-website-five-alpha-27.vercel.app)
 
+<img width="1540" height="1259" alt="image" src="https://github.com/user-attachments/assets/6b95fc58-36dc-493e-8286-4c2c9623f0ca" />
+
+
 ## Notes
 
 **070425:** This is my personal website I made as a personal project for myself. Had a lot of fun with this project especially the CSS allowing me to better play around with design concepts and styles. I'm proud of myself for finding ways to implement icons as links for the nav bar and the pixel text font. I'm excited to revist this website later to upgrade it later with JavaScript and React 
