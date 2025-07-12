@@ -1,6 +1,6 @@
 Submitted by: **Gabriel Anurum-Anyanwu**
 
-Live Demo: [portfolio-website-five-alpha-27.vercel.app](portfolio-website-five-alpha-27.vercel.app)
+Live Demo: [portfolio-website-five-alpha-27.vercel.app](https://portfolio-website-five-alpha-27.vercel.app)
 
 ## Notes
 
