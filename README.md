@@ -1,6 +1,6 @@
 Submitted by: **Gabriel Anurum-Anyanwu**
 
-Live Demo: [portfolio-website-five-alpha-27.vercel.app](https://portfolio-website-five-alpha-27.vercel.app)
+Live Demo: [https://www.gabe-anu.com/](https://www.gabe-anu.com/)
 
 <img width="1540" height="1259" alt="image" src="https://github.com/user-attachments/assets/6b95fc58-36dc-493e-8286-4c2c9623f0ca" />
 
