@@ -125,6 +125,14 @@ li > div {
   text-align: center;
 }
 
+#gallery-list > li > div > img {
+  width: 100%;
+  height: auto;
+  border-radius: 5px;
+}
+
+
+
 #top-img {
   width: 20em;
   height: 20em;
@@ -147,15 +155,23 @@ li > div {
   text-align: center;
   margin: auto;
   border-radius: 5px;
+  padding-right: 35px;
+  padding-bottom: 15px;
 
 }
+
+/* #outside-wrapper > ul > li {
+  padding-right: 50px;
+
+} */
+
 
 .post-wrapper {
   text-align: center;
   font-size: 150%;
   background-color:  #f8ebff;
   border-radius: 5px;
-  padding: 50px 50px 0px 50px;
+  padding: 50px 50px 50px 50px;
   margin-top: 15px;
   margin-bottom: 15px;
   
@@ -222,6 +238,8 @@ li > div {
   border-radius: 5px;
   display: inline-block;
 }
+
+
 
 
 
