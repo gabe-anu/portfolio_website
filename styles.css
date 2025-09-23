@@ -41,6 +41,22 @@ nav > ul {
   margin: 5px 0;
 }
 
+.source-buttons li {
+  background-color: #eed5fc;
+  padding: 7px;
+  margin: 1em auto;
+  width: 5%;
+  border: 2px solid;
+  border-radius: 5px;
+  list-style-type: none;
+  display: inline-block;
+  
+}
+
+.source-buttons > ul {
+  margin: 5px 0;
+
+}
 
 /* div{ */
   /* border: 2px solid #eed5fc; */
