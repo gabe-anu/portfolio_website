@@ -50,8 +50,8 @@ const projects = `[
     "frameworks": "Three.js",
     "status": "Completed",
     "img": "assets/ezgif-5e2e296211052.gif",
-    "sourceUrl": "https://github.com/username/weather-app",
-    "demoUrl": "https://weather-app-sepia-xi-81.vercel.app/"
+    "sourceUrl": "https://github.com/gabe-anu/pets",
+    "demoUrl": "https://virtualpets-six.vercel.app/"
   },
     {
     "name": "Gif Creator",
