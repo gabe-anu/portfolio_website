@@ -42,7 +42,7 @@ const projects = `[
     "status": "In Progress",
     "img": "assets/character concept.gif",
     "sourceUrl": "https://drive.google.com/drive/folders/1AGbLD7X_2zvwmeRHKmyCtQraEzSfDCB9?usp=drive_link",
-    "demoUrl": "https://weather-app-sepia-xi-81.vercel.app/"
+    "demoUrl": "https://www.figma.com/proto/NCPiKQSarSmGqSsWGuL1y0/_my_character_lab?page-id=3%3A2&node-id=58-11411&p=f&viewport=258%2C675%2C0.13&t=mqNlbr848CLytRsb-1&scaling=contain&content-scaling=fixed&starting-point-node-id=3%3A3"
   },
   {
     "name": "Virtual_Pets",
