@@ -261,7 +261,7 @@
     box-sizing: border-box;
     justify-content: flex-start;    
     padding-bottom: 1em;  /* hides image overflow outside card */
-    overflow: hidden;         /
+    overflow: hidden;         
 }
 .projects-img {
     width: 100%;
